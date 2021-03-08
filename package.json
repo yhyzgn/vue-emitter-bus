@@ -1,0 +1,24 @@
+{
+  "name": "vue-emitter-bus",
+  "version": "1.0.1",
+  "description": "EventBus for vue3.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "event",
+    "eventBus",
+    "emitter"
+  ],
+  "author": "yhyzgn",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yhyzgn/vue-emitter-bus.git"
+  },
+  "dependencies": {
+    "mitt": "^2.1.0",
+    "vue": "^3.0.5"
+  }
+}
