@@ -14,7 +14,7 @@ const EmitterBus = {
   }
 }
 
-export default {
+export {
   EmitterBus,
   emitter
 }
